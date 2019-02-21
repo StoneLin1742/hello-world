@@ -1,2 +1,3 @@
 # hello-world
-第一个GitHub库
+第一个GitHub的库
+关于第一个GitHub的库的介绍
